@@ -9,13 +9,8 @@
       + 시험연구용 LMO 수입승인 민원 등록 안내  
         ![LMO 수입 승인1](https://user-images.githubusercontent.com/125325764/219987704-00c1f4f4-55e0-4ad4-941b-4d5f4a19951e.PNG)  
          민원 등록 시 신청인 정보는 자동으로 입력되면 변경할 수 없습니다.  
-           
-             
-             
-        ![LMO 수입 승인2](https://user-images.githubusercontent.com/125325764/219987707-47b92468-fb97-47dd-aece-c93a97541db9.PNG)  
-        
-        ![LMO 수입 승인3](https://user-images.githubusercontent.com/125325764/219987708-3f18da8c-d997-46f0-b8b1-ee28d345d838.PNG)  
-        
+        ![LMO 수입 승인2](https://user-images.githubusercontent.com/125325764/219987707-47b92468-fb97-47dd-aece-c93a97541db9.PNG)      
+        ![LMO 수입 승인3](https://user-images.githubusercontent.com/125325764/219987708-3f18da8c-d997-46f0-b8b1-ee28d345d838.PNG)         
         ![LMO 수입 승인4](https://user-images.githubusercontent.com/125325764/219987709-f5e9544e-4234-4f50-b20e-7356a4407e56.PNG)  
         
   
