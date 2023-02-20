@@ -13,7 +13,7 @@
  <br> 
  <br>   
       ㅇㅇㅇ</br> 
-      ![LMO 수입 승인2](https://user-images.githubusercontent.com/125325764/219987707-47b92468-fb97-47dd-aece-c93a97541db9.PNG)
+      ![LMO 수입 승인2](https://user-images.githubusercontent.com/125325764/219988298-71be7a11-0c00-48b8-bb85-2ca3734aaebc.PNG)
      어쩌구저쩌구  
  <br> 
  <br> 
