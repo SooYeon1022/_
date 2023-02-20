@@ -12,8 +12,8 @@
      신청인 정보는 자동으로 입력되며 변경할 수 없습니다.  
  <br> 
  <br>   
-      ㅇㅇㅇ  
-     ![LMO 수입 승인2](https://user-images.githubusercontent.com/125325764/219987707-47b92468-fb97-47dd-aece-c93a97541db9.PNG)
+      ㅇㅇㅇ</br> 
+      ![LMO 수입 승인2](https://user-images.githubusercontent.com/125325764/219987707-47b92468-fb97-47dd-aece-c93a97541db9.PNG)
      어쩌구저쩌구  
  <br> 
  <br> 
