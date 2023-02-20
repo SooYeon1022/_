@@ -16,5 +16,5 @@
     제출해야하는 서류가 존재할 경우 해당 서류를 첨부한 뒤 제출 버튼을 클릭합니다. 
 ![LMO 수입 승인4](https://user-images.githubusercontent.com/125325764/220018143-420a4cbe-d0a5-47bd-b0dd-c732b13319d5.PNG)
  
-# [사이트 이용안내](https://sooyeon1022.github.io/Micro/#-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%81%EB%8B%A8-%EB%A9%94%EB%89%B4-%EC%95%88%EB%82%B4)
+##### [사이트 이용안내](https://sooyeon1022.github.io/Micro/#-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%81%EB%8B%A8-%EB%A9%94%EB%89%B4-%EC%95%88%EB%82%B4)
 
