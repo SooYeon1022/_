@@ -9,15 +9,17 @@
       + 시험연구용 LMO 수입승인 민원 등록 안내
          ![LMO 수입 승인1](https://user-images.githubusercontent.com/125325764/219984035-161d4402-2b4b-4945-973c-77046f301ac9.PNG)  
          민원 등록 시 신청인 정보는 자동으로 입력되면 변경할 수 없습니다.
-         <br>  
-         <br> 
-         <br> 
+  
+    
+      
+      
          ![LMO 수입 승인2](https://user-images.githubusercontent.com/125325764/219984037-5d641ac3-d58c-45f0-953f-4d585f5aa825.PNG)  
          ![LMO 수입 승인3](https://user-images.githubusercontent.com/125325764/219984038-a21d13d4-da35-4bad-9e8d-107ea313b3b9.PNG)  
          ![LMO 수입 승인4](https://user-images.githubusercontent.com/125325764/219984041-f2c64aaa-d693-4f47-b4c6-bd0c0a6f3dd2.PNG)
-         <br> 
-         <br>          
-         <br> 
+  
+    
+      
+      
 
 + 고위험병원체 <br>
     : 고위험병원체의 분리·분양·이동 신고와 반입·변경허가, 변경·인수 신고 및 보유현황 보고, 생물테러감염병 병원체 사전보유허가와 변경허가, 변경 신고가 가능합니다.  
