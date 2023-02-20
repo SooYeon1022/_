@@ -6,16 +6,18 @@
 + 유전자변형생물체 <br>
     : 유전자변형생물체(LMO)의 수입 및 국가승인 대상 범주에 속하는 LMO의 수입 및 개발 및 이용 시 질병관리청의 승인 또는 신고, 허가를 받을 수 있습니다. 
 
-      + 시험연구용 LMO 수입승인 민원 등록 안내
-         ![LMO 수입 승인1](https://user-images.githubusercontent.com/125325764/219984035-161d4402-2b4b-4945-973c-77046f301ac9.PNG)  
-         민원 등록 시 신청인 정보는 자동으로 입력되면 변경할 수 없습니다.
-  
-    
-      
-      
-         ![LMO 수입 승인2](https://user-images.githubusercontent.com/125325764/219984037-5d641ac3-d58c-45f0-953f-4d585f5aa825.PNG)  
-         ![LMO 수입 승인3](https://user-images.githubusercontent.com/125325764/219984038-a21d13d4-da35-4bad-9e8d-107ea313b3b9.PNG)  
-         ![LMO 수입 승인4](https://user-images.githubusercontent.com/125325764/219984041-f2c64aaa-d693-4f47-b4c6-bd0c0a6f3dd2.PNG)
+      + 시험연구용 LMO 수입승인 민원 등록 안내  
+        ![LMO 수입 승인1](https://user-images.githubusercontent.com/125325764/219987704-00c1f4f4-55e0-4ad4-941b-4d5f4a19951e.PNG)  
+         민원 등록 시 신청인 정보는 자동으로 입력되면 변경할 수 없습니다.  
+           
+             
+             
+        ![LMO 수입 승인2](https://user-images.githubusercontent.com/125325764/219987707-47b92468-fb97-47dd-aece-c93a97541db9.PNG)  
+        
+        ![LMO 수입 승인3](https://user-images.githubusercontent.com/125325764/219987708-3f18da8c-d997-46f0-b8b1-ee28d345d838.PNG)  
+        
+        ![LMO 수입 승인4](https://user-images.githubusercontent.com/125325764/219987709-f5e9544e-4234-4f50-b20e-7356a4407e56.PNG)  
+        
   
     
       
