@@ -72,15 +72,14 @@
 1. 신청인 정보
     신청인 정보의 경우 자동으로 입력되며 변경할 수 없습니다.  
     
-![생물안전시설 1](https://user-images.githubusercontent.com/125325764/220249067-759df5dc-4b4b-42c5-8411-b7e3d3ae7b1d.PNG)  
+![사고접수2](https://user-images.githubusercontent.com/125325764/220253895-4d815734-ca03-4ed2-8f9e-f19ed6975a7b.PNG)  
 
 2. 신청내용 입력  
     연구시설 정보와 유전자변형생물체명을 입력합니다.    
-![생물안전시설2](https://user-images.githubusercontent.com/125325764/220249061-56dad988-3232-43d6-84a4-eb53ac8eb67b.PNG) 
+![사고접수3](https://user-images.githubusercontent.com/125325764/220253898-8708eb55-7e0c-4b6c-a2c4-9ae873cf9e51.PNG)  
 
 3. 첨부파일 등록 
-![생물안전시설 3](https://user-images.githubusercontent.com/125325764/220249069-5c6a4095-bd3b-4198-a57a-6d8f9e58b5ec.PNG) 
-
+![사고접수1](https://user-images.githubusercontent.com/125325764/220253900-8b92b63d-34a0-478b-9a62-1dc3a262050b.PNG)  
 
 
 #### [사이트 이용안내 페이지로 돌아가기](https://sooyeon1022.github.io/Micro/#-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%81%EB%8B%A8-%EB%A9%94%EB%89%B4-%EC%95%88%EB%82%B4)
