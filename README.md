@@ -15,6 +15,12 @@
 4. 첨부서류
     제출해야하는 서류가 존재할 경우 해당 서류를 첨부한 뒤 제출 버튼을 클릭합니다. 
 ![LMO 수입 승인4](https://user-images.githubusercontent.com/125325764/220018143-420a4cbe-d0a5-47bd-b0dd-c732b13319d5.PNG)
+<br> 
+<br> 
+<br> 
+<br> 
+ #### [사이트 이용안내 페이지로 돌아가기](https://sooyeon1022.github.io/Micro/#-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%81%EB%8B%A8-%EB%A9%94%EB%89%B4-%EC%95%88%EB%82%B4)
+ 
  
 ### 고위험병원체 반입 허가 절차
 1. 신청인 정보
@@ -29,7 +35,11 @@
 4. 고위험병원체 정보 입력 
     고위험병원체 정보를 입력합니다.  
 ![고병 반입허가4](https://user-images.githubusercontent.com/125325764/220246545-96c0c630-6c2e-4840-a39a-f4b7f27635b9.PNG)
-
+<br> 
+<br> 
+<br> 
+<br> 
+ #### [사이트 이용안내 페이지로 돌아가기](https://sooyeon1022.github.io/Micro/#-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%81%EB%8B%A8-%EB%A9%94%EB%89%B4-%EC%95%88%EB%82%B4)
 
 ### 생물안전시설 설치 · 운영 신규허가 - LMO 연구시설 절차
 1. 신청인 정보
@@ -40,9 +50,17 @@
 ![생물안전시설2](https://user-images.githubusercontent.com/125325764/220249061-56dad988-3232-43d6-84a4-eb53ac8eb67b.PNG)
 3. 첨부파일 등록 
 ![생물안전시설 3](https://user-images.githubusercontent.com/125325764/220249069-5c6a4095-bd3b-4198-a57a-6d8f9e58b5ec.PNG)
-
+<br> 
+<br> 
+<br> 
+<br> 
+ #### [사이트 이용안내 페이지로 돌아가기](https://sooyeon1022.github.io/Micro/#-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%81%EB%8B%A8-%EB%A9%94%EB%89%B4-%EC%95%88%EB%82%B4)
+ 
 ### 사고접수 절차
+<br> 
+<br> 
+<br> 
+<br> 
+ #### [사이트 이용안내 페이지로 돌아가기](https://sooyeon1022.github.io/Micro/#-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%81%EB%8B%A8-%EB%A9%94%EB%89%B4-%EC%95%88%EB%82%B4)
 
-
-#### [사이트 이용안내 페이지로 돌아가기](https://sooyeon1022.github.io/Micro/#-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%81%EB%8B%A8-%EB%A9%94%EB%89%B4-%EC%95%88%EB%82%B4)
 
