@@ -34,11 +34,11 @@
     송부기관명, 국가명, 주소를 정확하게 입력합니다.   
 ![고병 반입허가2](https://user-images.githubusercontent.com/125325764/220246539-489fca05-6181-4f82-8fab-6ff61fe9f5aa.PNG)  
 
-3. 취급기관 정보 입력 
+3. 취급기관 정보 입력  
     고위험병원체 취급 기관의 기본적인 정보는 자동으로 입력됩니다. 전담관리자, 취급자, 취급시설 정보를 입력합니다.   
 ![고병 반입허가3](https://user-images.githubusercontent.com/125325764/220246542-5c424eda-10b2-4991-93f5-5747cd506c38.PNG)  
 
-4. 고위험병원체 정보 입력 
+4. 고위험병원체 정보 입력  
     고위험병원체 정보를 입력합니다.  
 ![고병 반입허가4](https://user-images.githubusercontent.com/125325764/220246545-96c0c630-6c2e-4840-a39a-f4b7f27635b9.PNG)  
 
@@ -74,7 +74,7 @@
 
 ###  ○ 생물안전시설 사고접수 절차
 
-1. 신고자 정보
+1. 신고자 정보  
     신고자 정보의 경우 자동으로 입력되며 변경할 수 없습니다.  
     
 ![사고접수1](https://user-images.githubusercontent.com/125325764/220253900-8b92b63d-34a0-478b-9a62-1dc3a262050b.PNG)  
@@ -84,7 +84,7 @@
     사고개요를 항목에 알맞게 입력합니다.     
 ![사고접수2](https://user-images.githubusercontent.com/125325764/220253895-4d815734-ca03-4ed2-8f9e-f19ed6975a7b.PNG)  
 
-3. 종합의견
+3. 종합의견  
     재발방지방안을 작성합니다.  
     
 ![사고접수3](https://user-images.githubusercontent.com/125325764/220253898-8708eb55-7e0c-4b6c-a2c4-9ae873cf9e51.PNG)  
